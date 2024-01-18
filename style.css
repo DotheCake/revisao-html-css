@@ -1,0 +1,18 @@
+.botao{
+    border: 1px solid #999;
+    height: 26px;
+    padding: 5px 15px;
+    width: 90px;
+}
+.botao2{
+    border: 1px solid #dd44d5;
+    height: 26px;
+    padding: 5px 15px;
+    width: 100px;
+}
+.botao3{
+    border: 1px solid #8a17cc;
+    height: 26px;
+    padding: 5px 15px;
+    width: 100px;
+}
