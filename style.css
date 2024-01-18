@@ -16,3 +16,13 @@
     padding: 5px 15px;
     width: 100px;
 }
+.caixa{
+    background-color: #dd131375;
+    width: 250px;
+}
+
+.caixa-com-padding{
+    background-color: #8a17cc73;
+    padding: 0 25px;
+    width: 150px;
+}
